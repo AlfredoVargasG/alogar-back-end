@@ -1,3 +1,4 @@
 module.exports = {
-    SelectController: require('./select.controller')
+    SelectController: require('./select.controller'),
+    ScrappingController: require('./scrapping.controller'),
 }
